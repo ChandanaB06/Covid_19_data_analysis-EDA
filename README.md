@@ -16,7 +16,8 @@ Toos and Technologies :
   
 How to Run the Project
 Clone this repository:
-Copy Edit git clone https://github.com/ChandanaB06/Covid_19_data_analysis-EDA 
+Copy Edit git clone https://github.com/ChandanaB06/Covid_19_data_analysis-EDA ,
+
 Install dependencies
 Run the Jupyter Notebook: Copy Edit jupyter notebook Explore the visualizations and results. Results Key findings are visualized through bar charts, heatmaps, and pie charts.
 

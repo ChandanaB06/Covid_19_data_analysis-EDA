@@ -11,8 +11,14 @@ Objectives
 
 Toos and Technologies :
 * Jupyter Notebook- for interactive coding.
-* Pandas - for data manipulation.
+* Pandas - for data manipulation and prepocessing.
 * Matplotlib and Seaborn - for data visualization.
+  
+How to Run the Project
+Clone this repository:
+Copy Edit git clone https://github.com/ChandanaB06/Covid_19_data_analysis-EDA 
+Install dependencies
+Run the Jupyter Notebook: Copy Edit jupyter notebook Explore the visualizations and results. Results Key findings are visualized through bar charts, heatmaps, and pie charts.
 
 Key Findings and Future scope :
 1. Growth Over Time.
